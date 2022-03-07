@@ -1,0 +1,30 @@
+Objetivos:
+    1. O que é p JS?
+    2. Ferramentas e extensões que vamos utilizar;
+    3. Vamos Praticar? Sim!
+
+1. O que é o JS?
+    O JavaScript é uma linguagem de programação de alto de nível (que se assemelha a sintaxe humana), que integra o desenvolvimento de apps e páginas web.
+    É uma das linguagens de programação mais usadas no mundo do desenvolvimento.
+    
+    1.2. História:
+        Em 1995 o programador Brendan Eich que trabalhava na Netscape, implementou uma linguagem de programação chamada Mocha, depois o nome mudou para LiveScript, mas na época a linguagem Java era popular, então mudaram LiveScript para JavaScript como jogada de marketing.
+        A confusão entre JavaScript e Java é culpa dos marketeiros.
+    
+    1.3. Para que serve?
+        Para criar scripts dinâmicos que realizam a interação de apps ou páginas web.
+        Imagina que o HTML é a estrutura, o CSS é odesign, o JavaScript é a parte interativa do desenvolvimento.
+    
+    1.4. Onde usar?
+        Podemos usar o JavaScript de várias formas, seu uso mais comum se dá no desenvolvimento de apps e páginas web, juntamente com as linguagens HTML e CSS.
+        Nesse curso usaremos para estudar e criar projetos.
+
+2. Feramentas e extensões:
+    Durante o curso usaremos o VSCode (IDE) e a extenãp Live Server
+    Boas Práticas: Sempre externar o scripts e sempre carregar o script ao final do body.
+
+
+
+
+
+
