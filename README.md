@@ -1,1 +1,1 @@
-# Sintaxe-B-sica-de-JavaScript
+# Sintaxe-Básica-de-JavaScript
